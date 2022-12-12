@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
-import './MainPage.css';
-import Header from '../../components/Header/Header';
-import SearchBox from '../../components/SearchBox/SearchBox';
-import Movies from '../../components/Movies/Movies';
+import React from 'react';
 import Favorites from '../../components/Favorites/Favorites';
+import Header from '../../components/Header/Header';
+import Movies from '../../components/Movies/Movies';
+import SearchBox from '../../components/SearchBox/SearchBox';
+import './MainPage.css';
 
 function MainPage() {
     return (

@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { useState } from 'react';
+import React, { useState } from 'react';
 import MovieItem from '../MovieItem/MovieItem';
 import './Movies.css';
 
